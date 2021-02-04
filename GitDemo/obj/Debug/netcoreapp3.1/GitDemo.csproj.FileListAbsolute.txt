@@ -1,0 +1,13 @@
+C:\Users\hughs\source\repos\GitDemo\GitDemo\bin\Debug\netcoreapp3.1\GitDemo.exe
+C:\Users\hughs\source\repos\GitDemo\GitDemo\bin\Debug\netcoreapp3.1\GitDemo.deps.json
+C:\Users\hughs\source\repos\GitDemo\GitDemo\bin\Debug\netcoreapp3.1\GitDemo.runtimeconfig.json
+C:\Users\hughs\source\repos\GitDemo\GitDemo\bin\Debug\netcoreapp3.1\GitDemo.runtimeconfig.dev.json
+C:\Users\hughs\source\repos\GitDemo\GitDemo\bin\Debug\netcoreapp3.1\GitDemo.dll
+C:\Users\hughs\source\repos\GitDemo\GitDemo\bin\Debug\netcoreapp3.1\GitDemo.pdb
+C:\Users\hughs\source\repos\GitDemo\GitDemo\obj\Debug\netcoreapp3.1\GitDemo.csprojAssemblyReference.cache
+C:\Users\hughs\source\repos\GitDemo\GitDemo\obj\Debug\netcoreapp3.1\GitDemo.AssemblyInfoInputs.cache
+C:\Users\hughs\source\repos\GitDemo\GitDemo\obj\Debug\netcoreapp3.1\GitDemo.AssemblyInfo.cs
+C:\Users\hughs\source\repos\GitDemo\GitDemo\obj\Debug\netcoreapp3.1\GitDemo.csproj.CoreCompileInputs.cache
+C:\Users\hughs\source\repos\GitDemo\GitDemo\obj\Debug\netcoreapp3.1\GitDemo.dll
+C:\Users\hughs\source\repos\GitDemo\GitDemo\obj\Debug\netcoreapp3.1\GitDemo.pdb
+C:\Users\hughs\source\repos\GitDemo\GitDemo\obj\Debug\netcoreapp3.1\GitDemo.genruntimeconfig.cache
